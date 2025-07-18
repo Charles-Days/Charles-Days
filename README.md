@@ -72,11 +72,15 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
   <table>
     <tr>
       <td width="50%" align="center">
+        <img src="https://speedasistencia.com/logo.jpeg" alt="Speed Asistencia Logo" width="80" height="80"/>
+        <br/>
         <h3>
           <a href="https://speedasistencia.com/" target="_blank">Speed Asistencia</a>
         </h3>
       </td>
       <td width="50%" align="center">
+        <img src="https://entrypay.net/logo-inverse.svg" alt="EntryPay Logo" width="80" height="80"/>
+        <br/>
         <h3>
           <a href="https://entrypay.net/en" target="_blank">EntryPay</a>
         </h3>
