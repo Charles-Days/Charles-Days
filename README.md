@@ -82,24 +82,29 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
 ## 🌟 Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://speedasistencia.com/logo.jpeg" alt="Speed Asistencia Logo" width="90" height="90"/>
-        <br/>
-        <h3>
-          <a href="https://speedasistencia.com/" target="_blank">Speed Asistencia</a>
-        </h3>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://entrypay.net/logo-inverse.svg" alt="EntryPay Logo" width="80" height="80"/>
-        <br/>
-        <h3>
-          <a href="https://entrypay.net/en" target="_blank">EntryPay</a>
-        </h3>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+    
+    <div style="text-align: center; padding: 20px; min-width: 300px;">
+      <div style="display: flex; justify-content: center; align-items: center; height: 120px; margin-bottom: 15px;">
+        <img src="https://speedasistencia.com/logo.jpeg" alt="Speed Asistencia Logo" width="100" height="100" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); object-fit: cover;"/>
+      </div>
+      <h3 style="margin: 15px 0 10px 0; font-size: 1.5rem;">
+        <a href="https://speedasistencia.com/" target="_blank" style="text-decoration: none; color: #333;">Speed Asistencia</a>
+      </h3>
+      <p style="color: #666; font-style: italic; margin: 0;">Technical Support Platform</p>
+    </div>
+    
+    <div style="text-align: center; padding: 20px; min-width: 300px;">
+      <div style="display: flex; justify-content: center; align-items: center; height: 120px; margin-bottom: 15px;">
+        <img src="https://entrypay.net/logo-inverse.svg" alt="EntryPay Logo" width="100" height="100" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); object-fit: cover;"/>
+      </div>
+      <h3 style="margin: 15px 0 10px 0; font-size: 1.5rem;">
+        <a href="https://entrypay.net/en" target="_blank" style="text-decoration: none; color: #333;">EntryPay</a>
+      </h3>
+      <p style="color: #666; font-style: italic; margin: 0;">Payment Processing Solution</p>
+    </div>
+    
+  </div>
 </div>
 
 ## 📫 Connect with me
