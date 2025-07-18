@@ -1,25 +1,62 @@
 # Hello! I'm Charles Days 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Passionate+about+technology;Creative+and+innovative" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;IoT+%26+Database+Expert;React+%26+Next.js+Specialist" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves creating digital solutions that make a difference. I enjoy learning new technologies and collaborating on innovative projects.
+I'm a passionate Full Stack Developer with expertise in modern web technologies, IoT development, and database design. I love creating innovative solutions that bridge the gap between web applications and connected devices.
 
 ### 💻 Technologies I work with
 
+#### 🎯 **Frontend Development**
+
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</div>
+
+#### 🎨 **UI Frameworks & Styling**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</div>
+
+#### ⚙️ **Backend & Runtime**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</div>
+
+#### 🗄️ **Databases**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</div>
+
+#### 🔧 **IoT & Hardware**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Amazon_Alexa-00CAFF?style=for-the-badge&logo=amazon-alexa&logoColor=white" alt="Alexa Skills" />
+  <img src="https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=iot&logoColor=white" alt="IoT" />
+</div>
+
+#### 🛠️ **Development Tools**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 ## 📊 GitHub Statistics
@@ -35,24 +72,24 @@ I'm a passionate developer who loves creating digital solutions that make a diff
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Project 1</h3>
+        <h3 align="center">IoT Project</h3>
         <p align="center">
           <a href="#" target="_blank">
-            <img src="https://via.placeholder.com/400x200/6366F1/FFFFFF?text=Project+1" width="100%" alt="Project 1"/>
+            <img src="https://via.placeholder.com/400x200/6366F1/FFFFFF?text=IoT+Project" width="100%" alt="IoT Project"/>
           </a>
           <p align="center">
-            Brief project description
+            Arduino + Node.js + Database integration
           </p>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Project 2</h3>
+        <h3 align="center">Web Application</h3>
         <p align="center">
           <a href="#" target="_blank">
-            <img src="https://via.placeholder.com/400x200/10B981/FFFFFF?text=Project+2" width="100%" alt="Project 2"/>
+            <img src="https://via.placeholder.com/400x200/10B981/FFFFFF?text=React+Next.js" width="100%" alt="Web App"/>
           </a>
           <p align="center">
-            Brief project description
+            React + Next.js + Database backend
           </p>
         </p>
       </td>
@@ -79,10 +116,10 @@ I'm a passionate developer who loves creating digital solutions that make a diff
 
 ## 🎯 Current Goals
 
-- 🔭 **Working on:** [Description of your current project]
-- 🌱 **Learning:** [New technology or skill]
-- 👯 **Looking to collaborate on:** [Type of projects you're interested in]
-- 💬 **Ask me about:** [Your specialties]
+- 🔭 **Working on:** Full-stack applications with React, Next.js, and Node.js
+- 🌱 **Learning:** Advanced IoT integrations and cloud services
+- 👯 **Looking to collaborate on:** IoT projects, web applications, and database design
+- 💬 **Ask me about:** React, Next.js, Node.js, Database design, IoT development, Alexa Skills
 
 ## ⚡ Fun fact
 
