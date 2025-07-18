@@ -72,24 +72,33 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">IoT Project</h3>
+        <h3 align="center">Speed Asistencia</h3>
         <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://via.placeholder.com/400x200/6366F1/FFFFFF?text=IoT+Project" width="100%" alt="IoT Project"/>
+          <a href="https://speedasistencia.com/" target="_blank">
+            <img src="https://via.placeholder.com/400x200/6366F1/FFFFFF?text=Speed+Asistencia" width="100%" alt="Speed Asistencia"/>
           </a>
+          <br/>
+          <a href="https://speedasistencia.com/" target="_blank">🌐 Visit Website</a>
+          <!-- Si el repo es público, agrega esto: -->
+          <!-- <br/><a href="https://github.com/tuusuario/speedasistencia" target="_blank">💻 View Code</a> -->
           <p align="center">
-            Arduino + Node.js + Database integration
+            I developed this site solo, focused on assistance services.
           </p>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Web Application</h3>
+        <h3 align="center">EntryPay</h3>
         <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://via.placeholder.com/400x200/10B981/FFFFFF?text=React+Next.js" width="100%" alt="Web App"/>
+          <a href="https://entrypay.net/en" target="_blank">
+            <img src="https://via.placeholder.com/400x200/10B981/FFFFFF?text=EntryPay" width="100%" alt="EntryPay"/>
           </a>
+          <br/>
+          <a href="https://entrypay.net/en" target="_blank">🌐 Visit Website</a>
+          <!-- Si el repo es público, agrega esto: -->
+          <!-- <br/><a href="https://github.com/entrypay" target="_blank">💻 View Code</a> -->
           <p align="center">
-            React + Next.js + Database backend
+            Developed with a team, EntryPay is an access control and payment platform.<br/>
+            <a href=\"https://entrypay.net/en\">Learn more</a>
           </p>
         </p>
       </td>
