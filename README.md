@@ -71,31 +71,15 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <div align="center">
-          <img src="https://speedasistencia.com/logo.jpeg" alt="Speed Asistencia Logo" width="80" height="80"/>
-        </div>
-        <h3 align="center">Speed Asistencia</h3>
-        <p align="center">
-          <a href="https://speedasistencia.com/" target="_blank"/>
-          <br/>
-          <p align="center">
-            I developed this site solo, focused on assistance services.
-          </p>
-        </p>
+      <td width="50%" align="center">
+        <h3>
+          <a href="https://speedasistencia.com/" target="_blank">Speed Asistencia</a>
+        </h3>
       </td>
-      <td width="50%">
-        <div align="center">
-          <img src="https://entrypay.net/logo-inverse.svg" alt="EntryPay Logo" width="80" height="80"/>
-        </div>
-        <h3 align="center">EntryPay</h3>
-        <p align="center">
-          <a href="https://entrypay.net/en" target="_blank"/>
-          <br/>
-          <p align="center">
-            Developed with a team, EntryPay is an access control and payment platform.
-          </p>
-        </p>
+      <td width="50%" align="center">
+        <h3>
+          <a href="https://entrypay.net/en" target="_blank">EntryPay</a>
+        </h3>
       </td>
     </tr>
   </table>
