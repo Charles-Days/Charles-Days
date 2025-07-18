@@ -72,6 +72,9 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
   <table>
     <tr>
       <td width="50%">
+        <div align="center">
+          <img src="https://speedasistencia.com/logo.jpeg" alt="Speed Asistencia Logo" width="80" height="80"/>
+        </div>
         <h3 align="center">Speed Asistencia</h3>
         <p align="center">
           <a href="https://speedasistencia.com/" target="_blank">
@@ -79,14 +82,15 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
           </a>
           <br/>
           <a href="https://speedasistencia.com/" target="_blank">🌐 Visit Website</a>
-          <!-- Si el repo es público, agrega esto: -->
-          <!-- <br/><a href="https://github.com/tuusuario/speedasistencia" target="_blank">💻 View Code</a> -->
           <p align="center">
             I developed this site solo, focused on assistance services.
           </p>
         </p>
       </td>
       <td width="50%">
+        <div align="center">
+          <img src="https://entrypay.net/logo-inverse.svg" alt="EntryPay Logo" width="80" height="80"/>
+        </div>
         <h3 align="center">EntryPay</h3>
         <p align="center">
           <a href="https://entrypay.net/en" target="_blank">
@@ -94,11 +98,8 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
           </a>
           <br/>
           <a href="https://entrypay.net/en" target="_blank">🌐 Visit Website</a>
-          <!-- Si el repo es público, agrega esto: -->
-          <!-- <br/><a href="https://github.com/entrypay" target="_blank">💻 View Code</a> -->
           <p align="center">
-            Developed with a team, EntryPay is an access control and payment platform.<br/>
-            <a href=\"https://entrypay.net/en\">Learn more</a>
+            Developed with a team, EntryPay is an access control and payment platform.
           </p>
         </p>
       </td>
