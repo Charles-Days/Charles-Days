@@ -77,6 +77,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
         </div>
         <h3 align="center">Speed Asistencia</h3>
         <p align="center">
+          <a href="https://speedasistencia.com/" target="_blank"/>
           <br/>
           <p align="center">
             I developed this site solo, focused on assistance services.
@@ -89,6 +90,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
         </div>
         <h3 align="center">EntryPay</h3>
         <p align="center">
+          <a href="https://entrypay.net/en" target="_blank"/>
           <br/>
           <p align="center">
             Developed with a team, EntryPay is an access control and payment platform.
