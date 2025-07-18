@@ -81,7 +81,6 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
             <img src="https://via.placeholder.com/400x200/6366F1/FFFFFF?text=Speed+Asistencia" width="100%" alt="Speed Asistencia"/>
           </a>
           <br/>
-          <a href="https://speedasistencia.com/" target="_blank">🌐 Visit Website</a>
           <p align="center">
             I developed this site solo, focused on assistance services.
           </p>
@@ -97,7 +96,6 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
             <img src="https://via.placeholder.com/400x200/10B981/FFFFFF?text=EntryPay" width="100%" alt="EntryPay"/>
           </a>
           <br/>
-          <a href="https://entrypay.net/en" target="_blank">🌐 Visit Website</a>
           <p align="center">
             Developed with a team, EntryPay is an access control and payment platform.
           </p>
