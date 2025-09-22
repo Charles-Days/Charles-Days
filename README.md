@@ -85,7 +85,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
   <table>
     <tr>
       <td width="50%" align="center">
-        <img src="https://speedasistencia.com/logo.jpeg" alt="Speed Asistencia Logo" width="100" height="100"/>
+        <img src="[https://speedasistencia.com/logo.jpeg](https://www.speedasistencia.com/wp-content/uploads/go-x/u/e92661d2-b027-4182-ac0d-6ab0646b6a05/image-342x417.jpg)" alt="Speed Asistencia Logo" width="100" height="100"/>
         <br/>
         <h3>
           <a href="https://speedasistencia.com/" target="_blank">Speed Asistencia</a>
