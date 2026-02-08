@@ -84,7 +84,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
+      <td width="33.3%" align="center">
         <img src="https://www.speedasistencia.com/wp-content/uploads/go-x/u/e92661d2-b027-4182-ac0d-6ab0646b6a05/image-342x417.jpg" alt="Speed Asistencia Logo" width="100" height="100"/>
         <br/>
         <h3>
@@ -92,13 +92,21 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
         </h3>
         <p><em>Technical Support Platform</em></p>
       </td>
-      <td width="50%" align="center">
+      <td width="33.3%" align="center">
         <img src="https://entrypay.net/logo-inverse.svg" alt="EntryPay Logo" width="100" height="100"/>
         <br/>
         <h3>
           <a href="https://entrypay.net/en" target="_blank">EntryPay</a>
         </h3>
         <p><em>Payment Processing Solution</em></p>
+      </td>
+      <td width="33.3%" align="center">
+        <img src="https://sigbi.morelos.gob.mx/images/escudo_morelos.png" alt="SIGBI Logo" width="100" height="100" style="object-fit: contain;"/>
+        <br/>
+        <h3>
+          <a href="https://sigbi.morelos.gob.mx" target="_blank">SIGBI Morelos</a>
+        </h3>
+        <p><em>Government Information System</em></p>
       </td>
     </tr>
   </table>
