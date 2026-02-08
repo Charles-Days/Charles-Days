@@ -101,7 +101,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies,
         <p><em>Payment Processing Solution</em></p>
       </td>
       <td width="33.3%" align="center">
-        <img src="https://sigbi.morelos.gob.mx/images/escudo_morelos.png" alt="SIGBI Logo" width="100" height="100" style="object-fit: contain;"/>
+        <img src="https://cdn.prod.website-files.com/66d75f3897a0c14fc42017af/67d124efdfc13b41bfb24b65_Logo_Inicio.svg" alt="SIGBI Logo" width="100" height="100" style="object-fit: contain;"/>
         <br/>
         <h3>
           <a href="https://sigbi.morelos.gob.mx" target="_blank">SIGBI Morelos</a>
